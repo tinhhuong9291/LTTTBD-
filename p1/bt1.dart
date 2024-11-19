@@ -25,7 +25,7 @@ void main() {
 
   while (temp > 0) {
     binary = (temp % 2).toString() + binary;
-    temp ~/= 2;
+    temp ~/= 2; // chia lấy phần nguyên
   }
   print('Số $n ở hệ nhị phân là: $binary');
 }
