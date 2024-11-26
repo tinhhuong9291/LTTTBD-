@@ -5,7 +5,7 @@ void main() {
     print('obj la String');
   }
 // Kiem tra khong phai kieu int
-  if (obj! is int) {
+  if (obj is int) {
     print('obj khong phai la int ');
   }
 // Ep kieu

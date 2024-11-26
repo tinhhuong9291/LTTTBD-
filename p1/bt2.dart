@@ -4,7 +4,6 @@
  * 2.viết chương trình tính tổng các ước số của 1 số nguyên được nhập từ bàn phím (n>=1)
  */
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   num n = 0;
